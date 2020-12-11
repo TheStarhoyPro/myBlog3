@@ -1,0 +1,38 @@
+#body1 {
+    background: linear-gradient(#3bffff 0%, #0abef0 100%);
+    text-align: center;
+}
+img {
+  border-radius: 50%;
+}
+h1 {
+  font-family: monospace;
+  color: red;
+}
+h2 {
+  font-family: sans-serif;
+  color: blue;
+}
+h3 {
+  font-family: cursive;
+  color: white;
+}
+h4 {
+    font-size: 25px;
+    font-family: serif;
+}
+#blank {
+    height: 15px;
+    width: 100px;
+    background-color: black;
+}
+h5 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+}
+button {
+    background-color: cyan;
+    font-size: 25px;
+    color: blue;
+}

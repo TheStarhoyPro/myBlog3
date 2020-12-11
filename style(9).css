@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(#3bffff 0%, #0abef0 100%);
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: monospace;
+}
+h2 {
+    font-size: 25px;
+    font-family: inherit;
+}
+img {
+    height: 300px;
+    width: 250px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: gray;
+}
+.center {
+    text-align: center;
+}
